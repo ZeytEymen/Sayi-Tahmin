@@ -1,0 +1,7 @@
+C:\Users\karab\source\repos\OdevTahmin\OdevTahmin\bin\Debug\OdevTahmin.exe.config
+C:\Users\karab\source\repos\OdevTahmin\OdevTahmin\bin\Debug\OdevTahmin.exe
+C:\Users\karab\source\repos\OdevTahmin\OdevTahmin\bin\Debug\OdevTahmin.pdb
+C:\Users\karab\source\repos\OdevTahmin\OdevTahmin\obj\Debug\OdevTahmin.csprojAssemblyReference.cache
+C:\Users\karab\source\repos\OdevTahmin\OdevTahmin\obj\Debug\OdevTahmin.csproj.CoreCompileInputs.cache
+C:\Users\karab\source\repos\OdevTahmin\OdevTahmin\obj\Debug\OdevTahmin.exe
+C:\Users\karab\source\repos\OdevTahmin\OdevTahmin\obj\Debug\OdevTahmin.pdb
